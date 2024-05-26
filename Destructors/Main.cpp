@@ -9,7 +9,7 @@ public:
 	}
 
 	~MyClass() {
-
+		std::cout << "Destructor\n";
 	}
 };
 
