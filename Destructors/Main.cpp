@@ -7,6 +7,10 @@ public:
 	MyClass() {
 		std::cout << "Constructor\n";
 	}
+
+	~MyClass() {
+
+	}
 };
 
 int main() {
