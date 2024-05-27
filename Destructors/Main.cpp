@@ -19,6 +19,7 @@ public:
 
 int main() {
 	MyClass* p = new MyClass;
+	delete p;
 
 
 	//MyClass c;
