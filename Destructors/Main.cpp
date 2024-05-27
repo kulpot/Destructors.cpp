@@ -13,7 +13,11 @@ public:
 	}
 };
 
+void f() {
+
+}
+
 int main() {
-	MyClass c;
+	//MyClass c;
 	return 0;
 }
