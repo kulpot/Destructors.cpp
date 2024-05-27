@@ -21,5 +21,6 @@ int main() {
 	//MyClass c;
 	std::cout << "before f\n";
 	f();
+	std::cout << "after f\n";
 	return 0;
 }
