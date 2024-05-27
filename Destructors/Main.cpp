@@ -18,6 +18,9 @@ public:
 //}
 
 int main() {
+	MyClass* p = new MyClass;
+
+
 	//MyClass c;
 	//std::cout << "before f\n";
 	//f();
