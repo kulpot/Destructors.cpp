@@ -11,6 +11,8 @@ public:
 	~MyClass() {
 		std::cout << "Destructor\n";
 	}
+private:
+	int* xs;
 };
 
 //void f() {
