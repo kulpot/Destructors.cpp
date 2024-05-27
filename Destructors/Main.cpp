@@ -14,7 +14,7 @@ public:
 };
 
 void f() {
-
+	MyClass c;
 }
 
 int main() {
