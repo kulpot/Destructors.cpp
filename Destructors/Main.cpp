@@ -13,14 +13,14 @@ public:
 	}
 };
 
-void f() {
-	MyClass c;
-}
+//void f() {
+//	MyClass c;
+//}
 
 int main() {
 	//MyClass c;
-	std::cout << "before f\n";
-	f();
-	std::cout << "after f\n";
+	//std::cout << "before f\n";
+	//f();
+	//std::cout << "after f\n";
 	return 0;
 }
