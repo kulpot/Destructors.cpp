@@ -20,5 +20,6 @@ void f() {
 int main() {
 	//MyClass c;
 	std::cout << "before f\n";
+	f();
 	return 0;
 }
