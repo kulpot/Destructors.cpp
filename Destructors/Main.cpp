@@ -32,6 +32,7 @@ int main() {
 	delete p;
 
 
+
 	//MyClass c;
 	//std::cout << "before f\n";
 	//f();
