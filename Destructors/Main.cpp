@@ -11,10 +11,10 @@ public:
 		b = true;
 	}
 
-	~MyClass() {
-		std::cout << "Destructor\n";
-		//delete[] xs;
-	}
+	//~MyClass() {
+	//	std::cout << "Destructor\n";
+	//	//delete[] xs;
+	//}
 private:
 	//int* xs;
 	int x;
