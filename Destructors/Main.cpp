@@ -6,6 +6,7 @@ class MyClass {
 public:
 	MyClass() {
 		std::cout << "Constructor\n";
+		xs = new int[100];
 	}
 
 	~MyClass() {
