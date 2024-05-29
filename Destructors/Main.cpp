@@ -11,6 +11,7 @@ public:
 
 	~MyClass() {
 		std::cout << "Destructor\n";
+		delete[] xs;
 	}
 private:
 	int* xs;
