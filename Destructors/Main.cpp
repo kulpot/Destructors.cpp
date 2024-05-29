@@ -14,7 +14,9 @@ public:
 		delete[] xs;
 	}
 private:
-	int* xs;
+	//int* xs;
+	int x;
+	bool b;
 };
 
 //void f() {
