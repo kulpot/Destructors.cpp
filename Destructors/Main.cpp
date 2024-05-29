@@ -6,12 +6,14 @@ class MyClass {
 public:
 	MyClass() {
 		std::cout << "Constructor\n";
-		xs = new int[100];
+		//xs = new int[100];
+		x = 5;
+		b = true;
 	}
 
 	~MyClass() {
 		std::cout << "Destructor\n";
-		delete[] xs;
+		//delete[] xs;
 	}
 private:
 	//int* xs;
