@@ -20,6 +20,7 @@ private:
 	//int* xs;
 	int x;
 	bool b;
+	std::vector<int> v;
 };
 
 //void f() {
